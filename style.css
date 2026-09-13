@@ -14,12 +14,12 @@ html {
 
 :root {
     --color-bg: #f3ebe3;
-    --color-card: #ffffff;
-    --color-text: #6c7289;
-    --color-title: #1c232b;
-    --color-accent: #3d8168;
-    --color-accent-hover: #2a5f4d;
-    --color-price-old: #6b7280;
+    --color-card: hsl(0, 0%, 100%);
+    --color-text: hsl(228, 12%, 48%);
+    --color-title: hsl(212, 21%, 14%);
+    --color-accent: hsl(158, 36%, 37%);
+    --color-accent-hover: hsl(158, 42%, 18%);
+    --color-price-old: hsl(228, 12%, 48%);
     --shadow: 0 1.5rem 3rem rgba(0, 0, 0, 0.08);
     --radius: 1.2rem;
     --font-body: "Montserrat", Arial, sans-serif;
