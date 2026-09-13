@@ -13,7 +13,7 @@ html {
 }
 
 :root {
-    --color-bg: #f3ebe3;
+    --color-bg: hsl(30, 38%, 92%);
     --color-card: hsl(0, 0%, 100%);
     --color-text: hsl(228, 12%, 48%);
     --color-title: hsl(212, 21%, 14%);
@@ -181,7 +181,7 @@ img {
 }
 
 /* ============ */
-/* Mobile tweak  */
+/* Mobile       */
 /* ============ */
 
 @media (max-width: 767px) {
